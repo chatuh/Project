@@ -1,0 +1,88 @@
+.body {
+    height:1350px;
+    width:900px;
+    background-color:899241;
+}
+
+
+.top {
+    height:337.5px;
+    width:900px;
+}
+
+.banner {
+    height:225px;
+    width:900px;
+    background-color:d2d2d0;
+}
+
+.subbanner {
+    height:112.5;
+    width:900;
+    background-color:899241;
+}
+
+.button {
+    height:112.5px;
+    width:180px;
+    float:left;
+}
+
+
+.bottom {
+    height:1012.5px;
+    width:900px;
+}
+
+.main {
+    height:900px;
+    width:900px;
+    background-color:a7bcdb;
+}
+
+
+.sub1 {
+    height:450px;
+    width:900;
+}
+
+
+.box1 {
+    height:450px;
+    width:450px;
+    float:left;
+}
+
+
+
+.sub2 {
+    height:300px;
+    width:900px;
+}
+
+.pic2 {
+    height:300px;
+    width:300px;
+    float:left;
+}
+
+.foot {
+    height:112.5;
+    width:900;
+    background-color:899241;
+}
+
+
+
+
+things to paste
+
+        <style type="text/css">
+            html { Background:url() no-repeat center center fixed;
+                -webkit-background-size:cover;
+                -moz-background-size:cover;
+                -o-background-size:cover;
+                background-size:cover;
+                 }
+        </style>
+
